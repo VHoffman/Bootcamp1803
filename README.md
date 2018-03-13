@@ -8,4 +8,5 @@ One team to rule them all:
 
 
 ![](img/LazyEvaluation.jpg)
+Joe Carey
 Clement (rightmost)
