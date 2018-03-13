@@ -14,6 +14,6 @@ _From left to right_
 1. 
 2. 
 3. Gaurav Kumar
-4. Dawei_Yao
+4. Dawei Yao
 5. Joe Carey
 6. Clement (rightmost)
