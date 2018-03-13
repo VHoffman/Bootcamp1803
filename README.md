@@ -12,7 +12,7 @@ One team to rule them all:
 _From left to right_
 
 1. 
-2. 
+2.Vic
 3. Gaurav Kumar
 4. 
 5. Joe Carey
