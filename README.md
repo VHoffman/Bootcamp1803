@@ -11,7 +11,7 @@ One team to rule them all:
 
 _From left to right_
 
-1. Ken Sasaki (leftmost) 
+1. Ken Sasaki (leftmost).
 2. 
 3. Gaurav Kumar
 4. 
