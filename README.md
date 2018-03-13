@@ -8,5 +8,10 @@ One team to rule them all:
 
 
 ![](img/LazyEvaluation.jpg)
-Joe Carey
-Clement (rightmost)
+_From left to right_
+1.
+2.
+3.
+4.
+5. Joe Carey
+6. Clement (rightmost)
